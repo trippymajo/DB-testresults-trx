@@ -1,7 +1,8 @@
-﻿using System.Collections.Generic;
+﻿
+using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace TestResultDB
+namespace TestResultDB.TrxFileParser
 {
     public class TestDefinitions
     {

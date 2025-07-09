@@ -7,6 +7,7 @@ using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Configuration;
 using System.Data;
+using TestResultDB.TrxFileParser;
 
 namespace TestResultDB
 {
