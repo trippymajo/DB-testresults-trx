@@ -24,10 +24,7 @@ A command-line utility for storing Visual Studio Test Results (`.trx` files) and
   
 2. **Configure your database connection:**
 Set the connection string in appsettings.json or pass it via environment variable:
-```
-json
-Копировать
-Редактировать
+```json
 "ConnectionStrings": {
   "Default": "Server=localhost;Database=YourDb;User Id=youruser;Password=yourpassword;"
 }
